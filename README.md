@@ -22,7 +22,7 @@ I'm an Android software developer and I live in London, United Kingdom. I have B
 - 💬 Ask me about Java, Kotlin Programming Languages and Android development.. 
 - 📫 How to reach me: [Telegram][1.1]  or on [LinkedIn][1.2]
 
-- ⚡  Fun fact about me: I play piano very well
+- ⚡  Fun fact about me: I'm a good UI and UX Designer
 
 [1.1]: https://www.t.me/shaxzodshox/
 [1.2]: https://www.linkedin.com/in/shakhzod-ilkhomov/
