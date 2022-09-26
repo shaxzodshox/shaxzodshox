@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/51059606/192175592-e628c9b8-aaa5-4e66-bee2-58cb489f3b6b.gif" width="40px"></h1> 
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://user-images.githubusercontent.com/51059606/192175592-e628c9b8-aaa5-4e66-bee2-58cb489f3b6b.gif" width="40px"></h1>
 
 ### My name is Shakhzod Ilkhomov 
 
