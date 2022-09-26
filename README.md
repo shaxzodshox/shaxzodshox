@@ -2,7 +2,7 @@
 
 ### My name is Shakhzod Ilkhomov 
 
-I'm an Android software developer. I live in London, United Kingdom. I have Bachelor's degree in Information Technology at Limkokwing University of Creative Technology (Malaysia) and Master's degree in Computer Science at Brunel University London (United Kingdom). I have been programming since 2016.
+I'm an Android software developer and I live in London, United Kingdom. I have Bachelor's degree in Information Technology at Limkokwing University of Creative Technology (Malaysia) and Master's degree in Computer Science at Brunel University London (United Kingdom). I have been programming since 2016.
 
 <hr>
 
