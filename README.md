@@ -22,7 +22,5 @@ I'm an Android software developer. I live in London, United Kingdom. I have Bach
 - 💬 Ask me about Java, Kotlin Programming Languages and Android development.. 
 - 📫 How to reach me: [Telegram][1.1]  or on [LinkedIn][1.2]
 
--->
-
 [1.1]: https://www.t.me/shaxzodshox/
 [1.2]: https://www.linkedin.com/in/shakhzod-ilkhomov/
